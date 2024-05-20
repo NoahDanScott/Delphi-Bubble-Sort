@@ -79,7 +79,7 @@ begin
 
     end;
     redOutput.Lines.Add(inttostr(arrNum[k]));
-   //
+
   end;
 end;
 
